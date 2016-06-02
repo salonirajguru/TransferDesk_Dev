@@ -1,0 +1,13 @@
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\bin\x64\Debug\TransferDesk.BAL.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\bin\x64\Debug\TransferDesk.BAL.pdb
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\bin\x64\Debug\EntityFramework.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\bin\x64\Debug\TransferDesk.Contracts.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\bin\x64\Debug\TransferDesk.DAL.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\bin\x64\Debug\TransferDesk.Contracts.pdb
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\bin\x64\Debug\TransferDesk.DAL.pdb
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\bin\x64\Debug\EntityFramework.xml
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\obj\x64\Debug\TransferDesk.BAL.csprojResolveAssemblyReference.cache
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\obj\x64\Debug\TransferDesk.BAL.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.BAL\obj\x64\Debug\TransferDesk.BAL.pdb

@@ -1,0 +1,1 @@
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Services\obj\x86\Debug\TransferDesk.Services.csprojResolveAssemblyReference.cache

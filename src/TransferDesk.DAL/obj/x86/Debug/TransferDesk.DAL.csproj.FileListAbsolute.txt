@@ -1,0 +1,12 @@
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\bin\x86\Debug\TransferDesk.DAL.dll.config
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\bin\x86\Debug\TransferDesk.DAL.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\bin\x86\Debug\TransferDesk.DAL.pdb
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\bin\x86\Debug\EntityFramework.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\bin\x86\Debug\TransferDesk.Contracts.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\bin\x86\Debug\TransferDesk.Contracts.pdb
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\bin\x86\Debug\EntityFramework.xml
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\obj\x86\Debug\TransferDesk.DAL.csprojResolveAssemblyReference.cache
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\obj\x86\Debug\TransferDesk.DAL.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.DAL\obj\x86\Debug\TransferDesk.DAL.pdb

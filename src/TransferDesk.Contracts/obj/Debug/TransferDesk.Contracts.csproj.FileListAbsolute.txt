@@ -204,3 +204,13 @@ D:\MSProject\Final UAT\MS-Iteration-9_Integarted\TransferDesk.Contracts\bin\Debu
 D:\MSProject\Final UAT\MS-Iteration-9_Integarted\TransferDesk.Contracts\obj\Debug\TransferDesk.Contracts.csprojResolveAssemblyReference.cache
 D:\MSProject\Final UAT\MS-Iteration-9_Integarted\TransferDesk.Contracts\obj\Debug\TransferDesk.Contracts.dll
 D:\MSProject\Final UAT\MS-Iteration-9_Integarted\TransferDesk.Contracts\obj\Debug\TransferDesk.Contracts.pdb
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Contracts\bin\Debug\TransferDesk.Contracts.dll.config
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Contracts\bin\Debug\TransferDesk.Contracts.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Contracts\bin\Debug\TransferDesk.Contracts.pdb
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Contracts\obj\Debug\TransferDesk.Contracts.dll
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Contracts\obj\Debug\TransferDesk.Contracts.pdb
+C:\Users\rajg01\Desktop\MS-Iteration-9_Integarted\TransferDesk_Dev\src\TransferDesk.Contracts\obj\Debug\TransferDesk.Contracts.csprojResolveAssemblyReference.cache
